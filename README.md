@@ -4,7 +4,7 @@
 
 ## Description
 
-[github-repo]()
+[github-repo](https://github.com/Will-Dean5/readme-generator)
 
 This is designed to generate a README.md file that adds the users inputs to the file when they run node in the terminal. Once all prompts are answered the file will generate with the users inputs.
 ## Usage
