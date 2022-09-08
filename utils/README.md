@@ -1,10 +1,10 @@
 # undefined
                 
-will
+Will
                 
-abcd
+this is the link
                 
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![License: Mozilla](https://img.shields.io/badge/License-Mozilla-blue.svg)](https://opensource.org/licenses/MPL-2.0)
                 
 ## Table of contents
                 
@@ -17,24 +17,24 @@ abcd
                 
 ## Description
                 
-this is my desc
+This is my description
                 
 ## Installation
                 
-these are the instructions
+this is the instructions
                 
 ## Usage
                 
-this is what it is used or
+this is used for
                 
 ## contributions
                 
-me
+this is my contribution
                 
 ## Testing
                 
-these are testing instructions
+these are the instructions
                 
 ## Contact
                 
-?????
+lorem ipsum
